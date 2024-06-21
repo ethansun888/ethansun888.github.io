@@ -1,22 +1,20 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: "Deciphering Stereotypes in Pre-Trained Language Models"
+    authors: Weicheng Ma, Henry Scheible, Brian Wang, Goutham Veeramachaneni, Pratim Chowdhary, <strong>Alan Sun</strong>, Andrew Koulogeorge, Lili Wang, Diyi Yang, Soroush Vosoughi
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing <strong(EMNLP)</strong>, 2023.
+    pdf: https://aclanthology.org/2023.emnlp-main.697.pdf
+    code: https://github.com/henryscheible/plmbias/tree/main
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3igwY-u4ZuMJ:scholar.google.com/&output=citation&scisdr=ClHvMPw5EJ33sMbCUV0:AFWwaeYAAAAAZnXESV12PlJzHw_PnuaBHjf28MA&scisig=AFWwaeYAAAAAZnXESeUpGS-QZddGPT1FyMW8TBQ&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "ThanosNet: A Novel Trash Classification Method Using Metadata"
+    authors: <strong>Alan Sun</strong>, Harry Xiao 
+    conference_short: Big Data
+    conference: IEEE Conference on on Big Data <strong>(Big Data)</strong>, 2020.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9378287
+    code: https://github.com/alansun17904/smart-trash
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:tncYSAcZhpYJ:scholar.google.com/&output=citation&scisdr=ClHvMPw5EJ33sMbDByw:AFWwaeYAAAAAZnXFHyxkYuWOJdzY4iBix1ilvzI&scisig=AFWwaeYAAAAAZnXFH_K-aobaggi_OMWxkzEBkJs&scisf=4&ct=citation&cd=-1&hl=en
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
