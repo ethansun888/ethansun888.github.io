@@ -19,3 +19,11 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:tncYSAcZhpYJ:scholar.google.com/&output=citation&scisdr=ClHvMPw5EJ33sMbDByw:AFWwaeYAAAAAZnXFHyxkYuWOJdzY4iBix1ilvzI&scisig=AFWwaeYAAAAAZnXFH_K-aobaggi_OMWxkzEBkJs&scisf=4&ct=citation&cd=-1&hl=en
     notes: Oral Presentation
     image: ./assets/img/thanos.png
+
+  - title: "A Decentralized Insurance Exchange"
+    authors: <strong>Alan Sun</strong>
+    conference_short: Patent
+    conference: US Patent No. 63/153,349, <emph>Pending</emph>
+    pdf: ./assets/files/decentralized_insurance_exchange_provisional.pdf
+    image: ./assets/img/decentralized.png
+
