@@ -1,5 +1,5 @@
 main:
-  - title: Certified Robustness via <emph>Knowledge Continuity</emph>
+  - title: Achieving Domain-Independent Certified Robustness via <i>Knowledge Continuity</i>
     authors: <strong>Alan Sun</strong>, Chiyu Ma, Kenneth Ge, Soroush Vosoughi
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
