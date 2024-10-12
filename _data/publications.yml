@@ -1,4 +1,11 @@
 main:
+  - title: "Algorithmic Phase Transitions in Large Language Models: A Mechanistic Case Study of Arithmetic"
+    authors: <strong>Alan Sun</strong>, Ethan Sun, Warren Shepard
+    conference_short: ATTRIB
+    conference: 2nd Workshop on Attributing Model Behavior at Scale @ NeurIPS (2024)
+    notes: To appear
+    image: ./assets/img/panels-cover.png
+
   - title: Achieving Domain-Independent Certified Robustness via <i>Knowledge Continuity</i>
     authors: <strong>Alan Sun</strong>, Chiyu Ma, Kenneth Ge, Soroush Vosoughi
     conference_short: NeurIPS
