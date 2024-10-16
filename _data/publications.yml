@@ -2,21 +2,21 @@ main:
   - title: "Algorithmic Phase Transitions in Large Language Models: A Mechanistic Case Study of Arithmetic"
     authors: <strong>Alan Sun</strong>, Ethan Sun, Warren Shepard
     conference_short: ATTRIB
-    conference: 2nd Workshop on Attributing Model Behavior at Scale @ NeurIPS (2024)
+    conference: ATTRIB @ NeurIPS (2024)
     notes: To appear
     image: ./assets/img/panels-cover.png
 
   - title: Achieving Domain-Independent Certified Robustness via <i>Knowledge Continuity</i>
     authors: <strong>Alan Sun</strong>, Chiyu Ma, Kenneth Ge, Soroush Vosoughi
     conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    conference: NeurIPS (2024)
     notes: To appear
     image: ./assets/img/kc.png
 
   - title: "Deciphering Stereotypes in Pre-Trained Language Models"
     authors: Weicheng Ma, Henry Scheible, Brian Wang, Goutham Veeramachaneni, Pratim Chowdhary, <strong>Alan Sun</strong>, Andrew Koulogeorge, Lili Wang, Diyi Yang, Soroush Vosoughi
     conference_short: EMNLP
-    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
+    conference: EMNLP (2023)
     pdf: https://aclanthology.org/2023.emnlp-main.697.pdf
     code: https://github.com/henryscheible/plmbias/tree/main
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3igwY-u4ZuMJ:scholar.google.com/&output=citation&scisdr=ClHvMPw5EJ33sMbCUV0:AFWwaeYAAAAAZnXESV12PlJzHw_PnuaBHjf28MA&scisig=AFWwaeYAAAAAZnXESeUpGS-QZddGPT1FyMW8TBQ&scisf=4&ct=citation&cd=-1&hl=en
@@ -26,7 +26,7 @@ main:
   - title: "ThanosNet: A Novel Trash Classification Method Using Metadata"
     authors: <strong>Alan Sun</strong>, Harry Xiao 
     conference_short: Big Data
-    conference: IEEE Conference on on Big Data <strong>(Big Data)</strong>, 2020.
+    conference: IEEE Big Data (2020)
     pdf: https://ieeexplore.ieee.org/abstract/document/9378287
     code: https://github.com/alansun17904/smart-trash
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:tncYSAcZhpYJ:scholar.google.com/&output=citation&scisdr=ClHvMPw5EJ33sMbDByw:AFWwaeYAAAAAZnXFHyxkYuWOJdzY4iBix1ilvzI&scisig=AFWwaeYAAAAAZnXFH_K-aobaggi_OMWxkzEBkJs&scisf=4&ct=citation&cd=-1&hl=en
