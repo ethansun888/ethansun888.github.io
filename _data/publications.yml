@@ -10,7 +10,8 @@ main:
     authors: <strong>Alan Sun</strong>, Chiyu Ma, Kenneth Ge, Soroush Vosoughi
     conference_short: NeurIPS
     conference: NeurIPS (2024)
-    notes: To appear
+    pdf: https://arxiv.org/pdf/2411.01644
+    code: https://github.com/alansun17904/kc
     image: ./assets/img/kc.png
 
   - title: "Deciphering Stereotypes in Pre-Trained Language Models"
@@ -19,7 +20,7 @@ main:
     conference: EMNLP (2023)
     pdf: https://aclanthology.org/2023.emnlp-main.697.pdf
     code: https://github.com/henryscheible/plmbias/tree/main
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3igwY-u4ZuMJ:scholar.google.com/&output=citation&scisdr=ClHvMPw5EJ33sMbCUV0:AFWwaeYAAAAAZnXESV12PlJzHw_PnuaBHjf28MA&scisig=AFWwaeYAAAAAZnXESeUpGS-QZddGPT1FyMW8TBQ&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/files/decipering-stereo.txt
     notes: Oral Presentation
     image: ./assets/img/stereotype.png
 
