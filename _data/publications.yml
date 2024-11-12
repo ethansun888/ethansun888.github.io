@@ -13,6 +13,7 @@ main:
     pdf: https://arxiv.org/pdf/2411.01644
     code: https://github.com/alansun17904/kc
     image: ./assets/img/kc.png
+    bibtex: ./assets/files/kc.bib
 
   - title: On the Exploration of LM-Based Soft Modular Robot Design
     authors: Weicheng Ma, Luyang Zhao, Chun-Yi She, Yitao Jiang, <strong>Alan Sun</strong>, Bo Zhu, Devin Balkcom, Soroush Vosoughi
@@ -35,7 +36,7 @@ main:
     conference: IEEE Big Data (2020)
     pdf: https://ieeexplore.ieee.org/abstract/document/9378287
     code: https://github.com/alansun17904/smart-trash
-    bibtex: ./assets/img/thanosnet.bib
+    bibtex: ./assets/files/thanosnet.bib
     notes: Oral Presentation
     image: ./assets/img/thanos.png
 
