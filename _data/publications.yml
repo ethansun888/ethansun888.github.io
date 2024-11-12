@@ -14,6 +14,10 @@ main:
     code: https://github.com/alansun17904/kc
     image: ./assets/img/kc.png
 
+  - title: On the Exploration of LM-Based Soft Modular Robot Design
+    authors: Weicheng Ma, Luyang Zhao, Chun-Yi She, Yitao Jiang, <strong>Alan Sun</strong>, Bo Zhu, Devin Balkcom, Soroush Vosoughi
+    pdf: https://arxiv.org/pdf/2411.00345
+
   - title: "Deciphering Stereotypes in Pre-Trained Language Models"
     authors: Weicheng Ma, Henry Scheible, Brian Wang, Goutham Veeramachaneni, Pratim Chowdhary, <strong>Alan Sun</strong>, Andrew Koulogeorge, Lili Wang, Diyi Yang, Soroush Vosoughi
     conference_short: EMNLP
