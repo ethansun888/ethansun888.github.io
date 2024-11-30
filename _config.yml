@@ -7,7 +7,7 @@ email: ethan.k.sun.26 (at) dartmouth.edu
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Ethan Sun 
-description: Alan's personal and academic website.
+description: Ethan's personal and academic website.
 canonical: https://ethansun888.github.io
 
 # Links 
@@ -20,7 +20,7 @@ linkedin: https://www.linkedin.com/in/ethansun888
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-# avatar: ./assets/img/alan-head.jpeg
+avatar: ./assets/img/ethan_pic.png
 # favicon: ./assets/img/favicon.png
 # favicon_dark: ./assets/img/favicon-dark.png
 
