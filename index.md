@@ -3,19 +3,12 @@ layout: homepage
 ---
 
 ## About Me
-I am a first-year MSCS student at [Carnegie Mellon University](https://www.cmu.edu/).
+I am a junior at [Dartmouth College](www.dartmouth.edu) majoring in economics and minoring in mathematics.
 
-This past summer, I was a visiting scholar at the [Max-Planck Institute for Software Systems](https://mpi-sws.org/) advised by [Mariya Toneva](https://mtoneva.com/). I earned my undergraduate degree in Computer Science and Mathematics at [Dartmouth College](https://home.dartmouth.edu/) with highest honors. At Dartmouth,
-I conducted research with [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) where I worked to create
-a mathematical framework that enables the characterization of robustness of language models. My honors thesis, *Acheiving Domain-Independent Certified
-Robustness via Knowledge Continuity*, was awarded [First Prize for Oustanding Research in Computational Sciences](https://neukom.dartmouth.edu/research/neukom-research-prizes/2024-research-prize-winners) by the Neukom Institute as well as the [John G. Kemeny Computing Prize for Innovation](https://web.cs.dartmouth.edu/undergraduate/john-g-kemeny-computing-prize).
-
-My current research focuses on interpreting the mechanisms of artificial neural networks through circuit discovery. 
+My main roles on campus are as a research assistant (RA) and a teaching assistant (TA).  During my freshman and sophomore years, I worked with Assistant Professor Xin Qi as a pharmaceutical engineering RA developing antibodies to target Interleukin-33. Currently, I work with The Dartmouth Professor in Economics Erzo Luttmer as a public economics RA looking at valuing human lives based on respondents’ choice between vignettes of life stories where life-time income and age of death are randomized and as a health economics lead researcher looking at hospital consolidation's effects on quality of care. I also work as a TA in both the economics and music department.  For fun, I teach piano, work out with my friends, act as a mentor in our Korean student association, and participate as a brother in my fraternity.
 
 ## Research
-I am interested in improving the robustness of deep learning models by proving tight certifications and discovering novel adversarial examples.
-I am also interested in uncovering the mechanisms that enable their decision making. Through explorations of both these subfields, I wish
-to expose the opaque links between them. 
+I am interested in investigating the effects of rapid consolidation of hospitals and health insurance providers on quality of care of patients.
 
 {% include_relative _includes/publications.md %}
 
