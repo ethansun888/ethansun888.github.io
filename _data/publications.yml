@@ -3,7 +3,7 @@ main:
     authors: Alan Sun, <strong>Ethan Sun</strong>, Warren Shepard
     conference_short: ATTRIB
     conference: ATTRIB @ NeurIPS (2024)
-    notes: To appear
+    pdf: https://arxiv.org/pdf/2412.07386
     image: ./assets/img/panels-cover.png
 
 
