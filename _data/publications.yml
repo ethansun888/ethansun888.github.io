@@ -1,4 +1,10 @@
 main:
+  - title: "Long-Term Effects of the ACA Medcaid Expansions"
+    authors: Ethan Sun
+    pdf: https://download.ssrn.com/2025/3/28/5197610.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBcaCXVzLWVhc3QtMSJIMEYCIQCxwwK4gQKajif8qU9Nx1mNwAqiRdneOxoOD8lVD4iBvAIhAN2GS%2FkDDyGE%2BQ9N6bWhdEdy32jdLNcnwqQRNAkfAZG5KscFCJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBBoMMzA4NDc1MzAxMjU3Igz0PftV8LIxEs3bB1QqmwXc8Hgew6M%2Bj%2FUdPX87MYYASjKuKEezp%2FUmccQeMhKY8UDNE11g0Bc5f73%2B4Ullq%2Bn37ojz2CaQFjEdkasPBAwTvRCyOn02H48pvuMzEYodSeRiieZnOHaoRrKALUF231ODKCqqUywRhvTIPjg9Q7kZWPZL54dTZ9umHrNE%2F8kAnvKtfcYB077p%2F8041IS6%2F%2FrlyhKbein3j2oY0QpwyXKvrkxYCpFwUOmqVg2d5Y66N2QVZslSUJO%2BPFH7fJDnwbjWqITwFM6WiBh7Gec53hIuD6vZ67pjWS2DRrG1XTbCOO5biot4raBEkc9IDK6CXHzXsa5RKL6iZAbYZZGgXhV3J2%2B7QaS3FbRmYksRzC2ifizxqoCEFJpqBC1yRKBv6KqtOYUsS1v2AHbSvq9Ch%2BVvcf9HBnCPPfffouK3sTxMHji9rBDnLrSIw0GVSghlMa3Ah9cOlTqxrLcH4h0CPmRiY1MP9kVpwV9fFi%2FLH3N2JBkwSUvZAClc1XnNkdUVjG4u3vPC7FCrEFItQ%2FrxNk8ULE2L%2BpYlbdjbiMwVMwd4mD2pkVYD3viJeUum1xJfO2zivtw1In8Iqps%2B1IyEvkGxHOAhkZ16%2F51n7WzoYgbO%2F6ovIclRC9SmKZA6LIQSCV1gh%2BcHF%2BtTx9gJ34Z0%2BT3J9tEDPSMURAlAqX%2By4duScJ5pGak3nLhhYWFkY3HB9ESM7drZTmvr9fgXVceUkgXnYlcVdvYKKV8eh78OejdfJyn4nDbGPTv84esprrWuX4v0VD1JkcPSf83wXMEuQ5uO%2F9s9JXF%2FGfJZwz4y3Q6Kgj5bqXFlNel%2BYNgSZrWwEkUer9grD1iR8KZSTJkMxiQhsD6aAT%2FkN79mIWqmZb3%2FC4L0iSaom46WHVezMIaU2r8GOrAB0gsSMQJdDMB7tgMXw%2BF4719NyCDUAvg2KA%2BgeSR4UbOBk3njoah2PlDpTKGlo%2FmIB4thq3qq6h%2BsifH1cgz4hPjToAzm5jawAHKWzDjoWtrfzQqOzAYAycFmzsl%2B1j%2F9xjuLOWQ7UD6g5LiIbu%2BKomLw6z8rUIwx%2FyvxI2%2Fin0oqwxkGmDAoaefpqKMjWqhaxQvkDYFQUwr2CPkxlOp21x89kCWvSBRut6zoud6RjUI%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250409T154641Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUPUUPRWETJ7BULCX%2F20250409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d2fc82bee1a4d9f851be1a65c0c17f3cda32b00cc70f1053aa6ddd1dc2e1587c&abstractId=5197610
+    image: ./assets/img/aca.png
+
+main:
   - title: "Algorithmic Phase Transitions in Large Language Models: A Mechanistic Case Study of Arithmetic"
     authors: Alan Sun, <strong>Ethan Sun</strong>, Warren Shepard
     conference_short: ATTRIB
