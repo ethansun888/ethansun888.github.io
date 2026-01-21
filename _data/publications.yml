@@ -3,17 +3,17 @@ main:
     authors: Ethan Sun
     pdf: http://dx.doi.org/10.2139/ssrn.6065666
     image: ./assets/img/hpi.png
-    
+
   - title: "Long-Term Effects of the ACA Medcaid Expansions"
     authors: Ethan Sun
-    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197610
+    pdf: https://dx.doi.org/10.2139/ssrn.5197610
     image: ./assets/img/aca.png
     
   - title: "Algorithmic Phase Transitions in Large Language Models: A Mechanistic Case Study of Arithmetic"
     authors: Alan Sun, <strong>Ethan Sun</strong>, Warren Shepard
     conference_short: ATTRIB
     conference: ATTRIB @ NeurIPS (2024)
-    pdf: https://arxiv.org/pdf/2412.07386
+    pdf: https://doi.org/10.48550/arXiv.2412.07386
     image: ./assets/img/panels-cover.png
 
 
