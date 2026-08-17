@@ -1,19 +1,22 @@
 main:
-  - title: "There Goes the Neighborhood: How Gun Violence Affects Housing Prices"
-    authors: Ethan Sun
-    pdf: http://dx.doi.org/10.2139/ssrn.6065666
-    image: ./assets/img/hpi.png
 
-  - title: "Long-Term Effects of the ACA Medcaid Expansions"
-    authors: Ethan Sun
-    pdf: https://dx.doi.org/10.2139/ssrn.5197610
-    image: ./assets/img/aca.png
-    
-  - title: "Algorithmic Phase Transitions in Large Language Models: A Mechanistic Case Study of Arithmetic"
-    authors: Alan Sun, <strong>Ethan Sun</strong>, Warren Shepard
-    conference_short: ATTRIB
-    conference: ATTRIB @ NeurIPS (2024)
-    pdf: https://doi.org/10.48550/arXiv.2412.07386
-    image: ./assets/img/panels-cover.png
+  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
 
-
+  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
